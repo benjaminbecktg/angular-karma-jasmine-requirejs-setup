@@ -47,7 +47,7 @@ This will generate test-main.js/coffee that configures RequireJS and starts the
 tests.
 > no
 
-Which files do you want to include with <script> tag ?
+Which files do you want to include with script tag ?
 This should be a script that bootstraps your test by configuring Require.js and
 kicking __karma__.start(), probably your test-main.js file.
 Enter empty string to move to the next question.
