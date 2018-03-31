@@ -1,5 +1,5 @@
 # Introduction
-This is a base test setup project which provides a basic sample of getting Angular, Karma, Jasmine, RequireJS to work together.
+This is a base test setup template project which provides a basic sample of getting Angular, Karma, Jasmine, RequireJS to work together.
 
 # Setup
 This setup repository is without the dependencies added, to get this setup work.
